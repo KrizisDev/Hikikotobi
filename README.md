@@ -26,7 +26,7 @@ The following tracks have been replaced:
 - Underwater Prom Queens --> Battle Against a True Hero
 - Whale Whale Whale --> Amalgam
 - Swallow Hollow --> Bonetrousle (80% slower)
-- Flouring With You --> Stronger Monsters
+- Flouring With You --> Stronger Monsters *(Checker Dance if you're fighting Life Jam Guy)*
 - BREADY STEADY GO --> THE WORLD REVOLVING
 - You Cannot Go Back --> ASGORE
 - OMORI --> Don't Give Up
