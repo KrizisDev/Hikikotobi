@@ -1,4 +1,4 @@
-# Hikikotobi (0.9.9)
+# Hikikotobi (0.9.91)
 An OMORI mod that replaces most battle themes with various tracks from the Undertale/Deltarune soundtrack.
 
 The following tracks have been replaced:
@@ -20,10 +20,10 @@ The following tracks have been replaced:
 - Swirly 1000x --> Song That Might Play When You Fight Sans
 - Gator Gambol --> Ghost Fight
 - Jawbreaker --> Dummy!
-- GOLDENVENGEANCE --> Battle Against a True Hero
+- GOLDENVENGEANCE --> Chaos King
 - Squall --> Stronger Monsters
 - Grimey --> Stronger Monsters
-- Underwater Prom Queens --> Chaos King
+- Underwater Prom Queens --> Battle Against a True Hero
 - Whale Whale Whale --> Amalgam
 - Swallow Hollow --> Bonetrousle (80% slower)
 - Flouring With You --> Stronger Monsters
