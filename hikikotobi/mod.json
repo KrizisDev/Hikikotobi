@@ -2,7 +2,7 @@
   "id": "hikikotobi",
   "name": "Hikikotobi",
   "description": "Replaces battle themes with Undertale/Deltarune music",
-  "version": "0.0.1",
+  "version": "0.9.9",
   "files": {
     "plugins": [],
     "text": [],
