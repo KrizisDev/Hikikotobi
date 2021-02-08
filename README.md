@@ -1,4 +1,4 @@
-# Hikikotobi (0.9.91)
+# Hikikotobi (0.9.92)
 An OMORI mod that replaces most battle themes with various tracks from the Undertale/Deltarune soundtrack.
 
 The following tracks have been replaced:
