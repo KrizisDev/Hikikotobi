@@ -1,4 +1,4 @@
-# Hikikotobi (0.9.92)
+# Hikikotobi (1.0.0)
 An OMORI mod that replaces most battle themes with various tracks from the Undertale/Deltarune soundtrack.
 
 The following tracks have been replaced:
@@ -29,7 +29,5 @@ The following tracks have been replaced:
 - Flouring With You --> Stronger Monsters *(Checker Dance if you're fighting Life Jam Guy)*
 - BREADY STEADY GO --> THE WORLD REVOLVING
 - You Cannot Go Back --> ASGORE
+- Tee-hee Time --> MEGALOVANIA (SSBU Version)
 - OMORI --> Don't Give Up
-
-## TO-DO:
-- [ ] Replace a certain obnoxious-looking clone's battle theme with MEGALOVANIA.
