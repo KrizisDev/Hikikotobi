@@ -1,7 +1,19 @@
 # Hikikotobi (1.0.0)
 An OMORI mod that replaces most battle themes with various tracks from the Undertale/Deltarune soundtrack.
 
-The following tracks have been replaced:
+## Changelog:
+- Replaced PERFECTHEART's battle theme with MEGALOVANIA.
+- Modified PERFECTHEART's pre-battle cutscene to *"just get to the point"*, as Sans would say.
+- Implemented a new sound effect named `SE_hikikotobi_click`, used only during PERFECTHEART's pre-battle cutscene.
+- *Sins can now crawl on your back.*
+
+## Installation:
+- Download **hikikotobi_v1.0.0.zip**.
+- Go to OMORI's installation folder.
+- Extract the downloaded zip to `www/mods`. *(assuming you have already installed [GOMORI](https://github.com/Gilbert142/gomori))*
+- Launch the game.
+
+## List of replaced tracks
 - Push & Shove --> Wrong Enemy !?
 - Tussle Among Trees --> Enemy Approaching
 - THE VENGEANCE OF THOSE FORGOTTEN IN DARKNESS --> Stronger Monsters
