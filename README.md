@@ -8,7 +8,7 @@ An OMORI mod that replaces most battle themes with various tracks from the Under
 - *Sins can now crawl on your back.*
 
 ## Installation:
-- Download **hikikotobi_v1.0.0.zip**.
+- Download **hikikotobi_v1.0.0.zip** from [this page](https://github.com/KrizisDev/Hikikotobi/releases/tag/v1.0.0).
 - Go to OMORI's installation folder.
 - Extract the downloaded zip to `www/mods`. *(assuming you have already installed [GOMORI](https://github.com/Gilbert142/gomori))*
 - Launch the game.
