@@ -13,6 +13,9 @@ An OMORI mod that replaces most battle themes with various tracks from the Under
 - Extract the downloaded zip to `www/mods`. *(assuming you have already installed [GOMORI](https://github.com/Gilbert142/gomori))*
 - Launch the game.
 
+## Lite Version
+There's also an alternative, more lightweight version of Hikikotobi which you can download either by [clicking here](https://github.com/KrizisDev/Hikikotobi/releases/download/v1.0.0/hikikotobi_lite_v1.0.0.zip) or going to the [Releases](https://github.com/KrizisDev/Hikikotobi/releases) page. **HOWEVER, THE [Resource Loader](https://cdn.discordapp.com/attachments/794907423592415272/809239938113077308/resource_loader.zip) MOD ALSO NEEDS TO BE INSTALLED, OR ELSE IT WON'T WORK PROPERLY.**
+
 ## List of replaced tracks:
 <details>
   <summary>Click to reveal</summary>
